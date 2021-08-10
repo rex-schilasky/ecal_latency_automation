@@ -1,0 +1,158 @@
+Mode: ZERO COPY ON
+
+platform: Windows
+platform-release: 10
+platform-version: 10.0.19042
+architecture: AMD64
+processor: Intel64 Family 6 Model 142 Stepping 12, GenuineIntel
+
+-------------------------------
+ LATENCY / THROUGHPUT TEST     
+-------------------------------
+Received buffer size          :   1 kB
+Received packages             :   10000
+Message average receive time  :   4 us
+Throughput                    :   223763 kB/s
+                              :   218 MB/s
+                              :   223763 Msg/s
+
+-------------------------------
+ LATENCY / THROUGHPUT TEST     
+-------------------------------
+Received buffer size          :   2 kB
+Received packages             :   10000
+Message average receive time  :   6 us
+Throughput                    :   332656 kB/s
+                              :   324 MB/s
+                              :   166328 Msg/s
+
+-------------------------------
+ LATENCY / THROUGHPUT TEST     
+-------------------------------
+Received buffer size          :   4 kB
+Received packages             :   10000
+Message average receive time  :   8 us
+Throughput                    :   452693 kB/s
+                              :   442 MB/s
+                              :   113173 Msg/s
+
+-------------------------------
+ LATENCY / THROUGHPUT TEST     
+-------------------------------
+Received buffer size          :   8 kB
+Received packages             :   10000
+Message average receive time  :   10 us
+Throughput                    :   756701 kB/s
+                              :   738 MB/s
+                              :   94587 Msg/s
+
+-------------------------------
+ LATENCY / THROUGHPUT TEST     
+-------------------------------
+Received buffer size          :   16 kB
+Received packages             :   10000
+Message average receive time  :   9 us
+Throughput                    :   1661181 kB/s
+                              :   1622 MB/s
+                              :   103823 Msg/s
+
+-------------------------------
+ LATENCY / THROUGHPUT TEST     
+-------------------------------
+Received buffer size          :   32 kB
+Received packages             :   10000
+Message average receive time  :   10 us
+Throughput                    :   3121220 kB/s
+                              :   3048 MB/s
+                              :   97538 Msg/s
+
+-------------------------------
+ LATENCY / THROUGHPUT TEST     
+-------------------------------
+Received buffer size          :   64 kB
+Received packages             :   10000
+Message average receive time  :   11 us
+Throughput                    :   5457491 kB/s
+                              :   5329 MB/s
+                              :   85273 Msg/s
+
+-------------------------------
+ LATENCY / THROUGHPUT TEST     
+-------------------------------
+Received buffer size          :   128 kB
+Received packages             :   10000
+Message average receive time  :   14 us
+Throughput                    :   9009706 kB/s
+                              :   8798 MB/s
+                              :   70388 Msg/s
+
+-------------------------------
+ LATENCY / THROUGHPUT TEST     
+-------------------------------
+Received buffer size          :   256 kB
+Received packages             :   10000
+Message average receive time  :   20 us
+Throughput                    :   12320071 kB/s
+                              :   12031 MB/s
+                              :   48125 Msg/s
+
+-------------------------------
+ LATENCY / THROUGHPUT TEST     
+-------------------------------
+Received buffer size          :   512 kB
+Received packages             :   10000
+Message average receive time  :   31 us
+Throughput                    :   16506278 kB/s
+                              :   16119 MB/s
+                              :   32238 Msg/s
+
+-------------------------------
+ LATENCY / THROUGHPUT TEST     
+-------------------------------
+Received buffer size          :   1024 kB
+Received packages             :   10000
+Message average receive time  :   72 us
+Throughput                    :   14209749 kB/s
+                              :   13876 MB/s
+                              :   13876 Msg/s
+
+-------------------------------
+ LATENCY / THROUGHPUT TEST     
+-------------------------------
+Received buffer size          :   2048 kB
+Received packages             :   10000
+Message average receive time  :   136 us
+Throughput                    :   14992580 kB/s
+                              :   14641 MB/s
+                              :   7320 Msg/s
+
+-------------------------------
+ LATENCY / THROUGHPUT TEST     
+-------------------------------
+Received buffer size          :   4096 kB
+Received packages             :   10000
+Message average receive time  :   260 us
+Throughput                    :   15753803 kB/s
+                              :   15384 MB/s
+                              :   3846 Msg/s
+
+-------------------------------
+ LATENCY / THROUGHPUT TEST     
+-------------------------------
+Received buffer size          :   8192 kB
+Received packages             :   10000
+Message average receive time  :   596 us
+Throughput                    :   13740092 kB/s
+                              :   13418 MB/s
+                              :   1677 Msg/s
+
+-------------------------------
+ LATENCY / THROUGHPUT TEST     
+-------------------------------
+Received buffer size          :   16384 kB
+Received packages             :   10000
+Message average receive time  :   1364 us
+Throughput                    :   12010847 kB/s
+                              :   11729 MB/s
+                              :   733 Msg/s
+
